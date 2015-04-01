@@ -37,10 +37,10 @@ in Sprockets 4.x.
 
 ## Caveats
 
-Requires Sprockets 3 betas.
+Requires Sprockets 3 release candidate series or newer.
 
 ``` ruby
-gem 'sprockets', '~>3.0.0.beta'
+gem 'sprockets', '~>3.0.0.rc'
 ```
 
 ### Requires asset manifests for precompiling
